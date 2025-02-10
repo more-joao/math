@@ -1,5 +1,5 @@
-# Math Dump
-A couple of scripts related to mathematics. Some really old, some recent. I don't suppose most of them need much explanation, except for the *harmonic_series_subsequence.py*, which is worthy of some attention.
+# Math
+A couple of scripts related to mathematics. Some really old, some recent.
 
 ## Harmonic Series Subsequence
 Is the sum of all reciprocals, basically.
